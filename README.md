@@ -1,2 +1,12 @@
 # rtime
-linux cmd , show runtime for program run time.
+linux cmd , show running time for program.
+
+compile:
+  g++ rtime.cpp -o rtime
+
+copy:
+  cp rtime /usr/local/bin/.
+
+usage:
+  rtime<space>program_name
+  
