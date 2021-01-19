@@ -8,5 +8,5 @@ copy:
   cp rtime /usr/local/bin/.
 
 usage:
-  rtime<space>program_name
+  rtime program_name
   
